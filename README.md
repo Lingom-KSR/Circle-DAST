@@ -1,4 +1,6 @@
 # Orb Project Template
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7a79c5db-f8f9-455b-94f0-4f87f64a60a9.svg?orgId=271534534505)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/circle-dast?orgId=271534534505)  
 <!---
 [![CircleCI Build Status](https://circleci.com/gh/<organization>/<project-name>.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/<organization>/<project-name>) [![CircleCI Orb Version](https://badges.circleci.com/orbs/<namespace>/<orb-name>.svg)](https://circleci.com/orbs/registry/orb/<namespace>/<orb-name>) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/<organization>/<project-name>/master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
 
